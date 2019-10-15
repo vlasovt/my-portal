@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "%20//vlasovt.github.io/my-portal/static/css/main.b100e6da.chunk.css",
-    "main.js": "%20//vlasovt.github.io/my-portal/static/js/main.7f10ea05.chunk.js",
-    "main.js.map": "%20//vlasovt.github.io/my-portal/static/js/main.7f10ea05.chunk.js.map",
-    "runtime-main.js": "%20//vlasovt.github.io/my-portal/static/js/runtime-main.1849eac7.js",
-    "runtime-main.js.map": "%20//vlasovt.github.io/my-portal/static/js/runtime-main.1849eac7.js.map",
-    "static/js/2.ca6a5a52.chunk.js": "%20//vlasovt.github.io/my-portal/static/js/2.ca6a5a52.chunk.js",
-    "static/js/2.ca6a5a52.chunk.js.map": "%20//vlasovt.github.io/my-portal/static/js/2.ca6a5a52.chunk.js.map",
-    "index.html": "%20//vlasovt.github.io/my-portal/index.html",
-    "precache-manifest.5c699d33afc97f3d6d4ac0d7f6fcfe7c.js": "%20//vlasovt.github.io/my-portal/precache-manifest.5c699d33afc97f3d6d4ac0d7f6fcfe7c.js",
-    "service-worker.js": "%20//vlasovt.github.io/my-portal/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "%20//vlasovt.github.io/my-portal/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "%20//vlasovt.github.io/my-portal/static/media/logo.25bf045c.svg"
+    "main.css": "/my-portal/static/css/main.b100e6da.chunk.css",
+    "main.js": "/my-portal/static/js/main.c3286385.chunk.js",
+    "main.js.map": "/my-portal/static/js/main.c3286385.chunk.js.map",
+    "runtime-main.js": "/my-portal/static/js/runtime-main.f83f8f9d.js",
+    "runtime-main.js.map": "/my-portal/static/js/runtime-main.f83f8f9d.js.map",
+    "static/js/2.ca6a5a52.chunk.js": "/my-portal/static/js/2.ca6a5a52.chunk.js",
+    "static/js/2.ca6a5a52.chunk.js.map": "/my-portal/static/js/2.ca6a5a52.chunk.js.map",
+    "index.html": "/my-portal/index.html",
+    "precache-manifest.ec4d1cb249a762f3db68884b93ea49e6.js": "/my-portal/precache-manifest.ec4d1cb249a762f3db68884b93ea49e6.js",
+    "service-worker.js": "/my-portal/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/my-portal/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/my-portal/static/media/logo.25bf045c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1849eac7.js",
+    "static/js/runtime-main.f83f8f9d.js",
     "static/js/2.ca6a5a52.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.7f10ea05.chunk.js"
+    "static/js/main.c3286385.chunk.js"
   ]
 }
